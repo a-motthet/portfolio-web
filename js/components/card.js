@@ -2,81 +2,81 @@ const skillsData = {
   "Front-End": [
     {
       title: "HTML",
-      image: "/assets/images/html5.svg",
+      image: "/images/html5.svg",
       description: "sample",
     },
     {
       title: "CSS",
-      image: "/assets/images/css3.svg",
+      image: "/images/css3.svg",
       description: "sample",
     },
     {
       title: "JavaScript",
-      image: "/assets/images/javascript.svg",
+      image: "/images/javascript.svg",
       description: "sample",
     },
     {
       title: "Tailwind",
-      image: "/assets/images/tailwindcss.svg",
+      image: "/images/tailwindcss.svg",
       description: "sample",
     },
     {
       title: "React",
-      image: "/assets/images/react.svg",
+      image: "/images/react.svg",
       description: "sample",
     },
   ],
   "Back-End": [
     {
       title: "Node.js",
-      image: "/assets/images/nodejs.svg",
+      image: "/images/nodejs.svg",
       description: "sample",
     },
     {
       title: "Express.js",
-      image: "/assets/images/expressjs.svg",
+      image: "/images/expressjs.svg",
       description: "sample",
     },
     {
       title: "MongoDB",
-      image: "/assets/images/mongodb.svg",
+      image: "/images/mongodb.svg",
       description: "sample",
     },
     {
       title: "MySQL",
-      image: "/assets/images/mysql.svg",
+      image: "/images/mysql.svg",
       description: "sample",
     },
     {
       title: "MariaDB",
-      image: "/assets/images/mariadb.svg",
+      image: "/images/mariadb.svg",
       description: "sample",
     },
   ],
   "Tools&Technologies": [
     {
       title: "Github",
-      image: "/assets/images/github.svg",
+      image: "/images/github.svg",
       description: "sample",
     },
     {
       title: "Git",
-      image: "/assets/images/git.svg",
+      image: "/images/git.svg",
       description: "sample",
     },
     {
       title: "Visual Studio",
-      image: "/assets/images/visual-studio.svg",
+      image: "/images/visual-studio.svg",
       description: "sample",
     },
     {
       title: "Postman",
-      image: "/assets/images/postman.svg",
+      image: "/images/postman.svg",
       description: "sample",
     },
     {
       title: "Figma",
-      image: "/assets/images/figma.svg",
+      image: "/images/figma.svg",
       description: "sample",
     },
   ],
