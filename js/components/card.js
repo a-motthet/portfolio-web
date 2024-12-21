@@ -2,81 +2,81 @@ const skillsData = {
   "Front-End": [
     {
       title: "HTML",
-      image: "/images/html5.svg",
+      image: "images/html5.svg",
       description: "sample",
     },
     {
       title: "CSS",
-      image: "/images/css3.svg",
+      image: "images/css3.svg",
       description: "sample",
     },
     {
       title: "JavaScript",
-      image: "/images/javascript.svg",
+      image: "images/javascript.svg",
       description: "sample",
     },
     {
       title: "Tailwind",
-      image: "/images/tailwindcss.svg",
+      image: "images/tailwindcss.svg",
       description: "sample",
     },
     {
       title: "React",
-      image: "/images/react.svg",
+      image: "images/react.svg",
       description: "sample",
     },
   ],
   "Back-End": [
     {
       title: "Node.js",
-      image: "/images/nodejs.svg",
+      image: "images/nodejs.svg",
       description: "sample",
     },
     {
       title: "Express.js",
-      image: "/images/expressjs.svg",
+      image: "images/expressjs.svg",
       description: "sample",
     },
     {
       title: "MongoDB",
-      image: "/images/mongodb.svg",
+      image: "images/mongodb.svg",
       description: "sample",
     },
     {
       title: "MySQL",
-      image: "/images/mysql.svg",
+      image: "images/mysql.svg",
       description: "sample",
     },
     {
       title: "MariaDB",
-      image: "/images/mariadb.svg",
+      image: "images/mariadb.svg",
       description: "sample",
     },
   ],
   "Tools&Technologies": [
     {
       title: "Github",
-      image: "/images/github.svg",
+      image: "images/github.svg",
       description: "sample",
     },
     {
       title: "Git",
-      image: "/images/git.svg",
+      image: "images/git.svg",
       description: "sample",
     },
     {
       title: "Visual Studio",
-      image: "/images/visual-studio.svg",
+      image: "images/visual-studio.svg",
       description: "sample",
     },
     {
       title: "Postman",
-      image: "/images/postman.svg",
+      image: "images/postman.svg",
       description: "sample",
     },
     {
       title: "Figma",
-      image: "/images/figma.svg",
+      image: "images/figma.svg",
       description: "sample",
     },
   ],
